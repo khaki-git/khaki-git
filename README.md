@@ -1,6 +1,14 @@
 
 # 💫 About Me:
-Hello, I am *Khaki* (or Khaki-git) and I use GitHub to open source my projects for anyone to use. 🫠<br>All of my work is under the [***GNU GENERAL PUBLIC LICENSE***](https://www.gnu.org/licenses/gpl-3.0.en.html)<br><br>I primarily make Python programs and occasionally make websites using the Flask framework.<br>I've been interested in Machine Learning but don't know where to start, I mean I know how it works (I don't) and have made AI "software" but all of it was done following tutorials.<br><br>Thanks for reading.
+### Welcome to my Open Source Projects!
+
+Hello, I'm Khaki - a passionate developer sharing my Python and Rust projects on GitHub for the community to learn from and contribute to. 
+
+### Licensing
+
+All of my work is released under the [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/licenses/), ensuring that everyone can benefit from and modify my code.
+
+
 
 
 # 💻 Tech Stack:
