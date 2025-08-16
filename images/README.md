@@ -1,0 +1,1 @@
+This folder contains image for me that allow me to embed images into README files.
