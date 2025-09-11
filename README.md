@@ -16,6 +16,8 @@ the good stuff is under the [GNU GENERAL PUBLIC LICENSE](https://www.gnu.org/lic
 # github stuff:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khaki-git&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### links:
+[thunderstore (peak)](https://thunderstore.io/c/peak/p/khakixd/)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=khaki-git&icon=0&color=0)](https://visitcount.itsvg.in)
